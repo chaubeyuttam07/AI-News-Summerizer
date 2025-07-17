@@ -1,6 +1,6 @@
 # 📰 AI News Summarizer
 
-AI-powered tool that fetches trending news articles and generates concise summaries using state-of-the-art LLMs like OpenAI's GPT. Designed for developers, journalists, and researchers who want quick, readable overviews of the news.
+AI-powered tool that fetches trending news articles and generates concise summaries using state-of-the-art LLMs like OpenAI's GPT or Groq. Designed for developers, journalists, and researchers who want quick, readable overviews of the news.
 
 ---
 
